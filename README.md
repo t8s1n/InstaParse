@@ -25,7 +25,7 @@ The following **optional** features are soon to be implemented:
 
 ## Video Walkthrough
 
-###Here's two walkthrough's of implemented user stories:
+### Here's two walkthrough's of implemented user stories:
 
 #### Creating Users:
 
