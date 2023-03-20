@@ -42,7 +42,7 @@ GIF created with - [RecordIt](https://recordit.co/) for macOS
 
 Now that TikTok will be gone, I might as well create my own.
 
-<img src='https://media.tenor.com/xZRydwTh5dwAAAAd/birdman-hand-rub.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.tenor.com/xZRydwTh5dwAAAAd/birdman-hand-rub.gif' title='Video Walkthrough' width='100' alt='giffy' />
 
 ## License
 
