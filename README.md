@@ -40,7 +40,7 @@ GIF created with - [RecordIt](https://recordit.co/) for macOS
 
 ## Notes
 
-R.I.P TikTok, time to create my own.
+R.I.P TikTok (2023), time to create my own.
 
 <img src='https://media.tenor.com/xZRydwTh5dwAAAAd/birdman-hand-rub.gif' title='Video Walkthrough' width='100' alt='giffy' />
 
