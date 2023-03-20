@@ -25,13 +25,13 @@ The following **optional** features are soon to be implemented:
 
 ## Video Walkthrough
 
-Here's two walkthrough's of implemented user stories:
+###Here's two walkthrough's of implemented user stories:
 
-### Creating Users:
+#### Creating Users:
 
 <img src='http://g.recordit.co/IzNBpJQdMG.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-### Posting a picture and Logging in and out of the the feed:
+#### Posting a picture and Logging in and out of the the feed:
 
 <img src='http://g.recordit.co/3Cihpi3CHO.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
